@@ -8,9 +8,13 @@ var alberto = 8;
 
 var sumatoriaManzanas = raul + pedro_m
 
+var frutillasTotal = pedro_f / 2
 
 
 
 
 
-alert (sumatoriaManzanas)
+alert ("Hay esta cantidad de manzanas: " + sumatoriaManzanas);
+
+alert ("Hay esta cantidad de frutillas para dos personas: " + frutillasTotal)
+
